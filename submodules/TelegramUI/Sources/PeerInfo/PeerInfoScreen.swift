@@ -164,6 +164,7 @@ private final class PeerInfoScreenItemSectionContainerNode: ASDisplayNode {
             } else {
                 wasAdded = true
                 itemNode = item.node()
+                
                 self.itemNodes[item.id] = itemNode
                 self.itemContainerNode.addSubnode(itemNode)
                 itemNode.bringToFrontForHighlight = { [weak self, weak itemNode] in

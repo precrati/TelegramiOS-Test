@@ -11,7 +11,7 @@ public final class EngineMessage: Equatable {
     public typealias LocalTags = LocalMessageTags
     public typealias ForwardInfo = MessageForwardInfo
     
-    private let impl: Message
+    private var impl: Message
     
     public var stableId: UInt32 {
         return self.impl.stableId
@@ -37,7 +37,8 @@ public final class EngineMessage: Equatable {
         return self.impl.threadId
     }
     public var timestamp: Int32 {
-        return self.impl.timestamp
+        get { return self.impl.timestamp }
+        set { self.impl.timestamp = newValue }
     }
     public var flags: Flags {
         return self.impl.flags
@@ -152,6 +153,10 @@ public final class EngineMessage: Equatable {
 
     public func _asMessage() -> Message {
         return self.impl
+    }
+    
+    public func _changeTimestamp(_ timestamp: Int32) {
+        self.timestamp = timestamp
     }
     
     public static func ==(lhs: EngineMessage, rhs: EngineMessage) -> Bool {

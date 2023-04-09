@@ -644,7 +644,7 @@ public final class Message {
     public let groupingKey: Int64?
     public let groupInfo: MessageGroupInfo?
     public let threadId: Int64?
-    public let timestamp: Int32
+    public var timestamp: Int32
     public let flags: MessageFlags
     public let tags: MessageTags
     public let globalTags: GlobalMessageTags

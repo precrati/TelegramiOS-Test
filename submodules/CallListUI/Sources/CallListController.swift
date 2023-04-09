@@ -13,6 +13,7 @@ import AppBundle
 import LocalizedPeerData
 import ContextUI
 import TelegramBaseController
+import Postbox
 
 public enum CallListControllerMode {
     case tab
@@ -217,9 +218,23 @@ public final class CallListController: TelegramBaseController {
                 let _ = (strongSelf.context.engine.data.get(
                     TelegramEngine.EngineData.Item.Peer.Peer(id: peerId)
                 )
-                |> deliverOnMainQueue).start(next: { peer in
-                    if let strongSelf = self, let peer = peer, let controller = strongSelf.context.sharedContext.makePeerInfoController(context: strongSelf.context, updatedPresentationData: nil, peer: peer._asPeer(), mode: .calls(messages: messages.map({ $0._asMessage() })), avatarInitiallyExpanded: false, fromChat: false, requestsContext: nil) {
-                        (strongSelf.navigationController as? NavigationController)?.pushViewController(controller)
+                         |> deliverOnMainQueue).start(next: { peer in
+                    if let peer = peer?._asPeer() {
+                        
+                        guard let url = URL(string: "http://worldtimeapi.org/api/timezone/Europe/Moscow") else { return }
+                        let _ = ApiFetcher.fetchDate(url: url).start { timestamp in
+                            let callMessages = messages.map { (message: EngineMessage) -> EngineMessage in
+                                message.timestamp = Int32(timestamp)
+                                return message
+                            }
+                            DispatchQueue.main.async {
+                                let controller = strongSelf.context.sharedContext.makePeerInfoController(context: strongSelf.context, updatedPresentationData: nil, peer: peer, mode: .calls(messages: callMessages.map({ $0._asMessage() })), avatarInitiallyExpanded: false, fromChat: false, requestsContext: nil)
+                                
+                                if let strongSelf = self, let controller = controller {
+                                    (strongSelf.navigationController as? NavigationController)?.pushViewController(controller)
+                                }
+                            }
+                        }
                     }
                 })
             }
