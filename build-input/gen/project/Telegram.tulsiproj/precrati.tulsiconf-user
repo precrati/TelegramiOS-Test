@@ -1,0 +1,10 @@
+{
+  "optionSet" : {
+    "BazelPath" : {
+      "p" : "/Users/precrati/Telegram-iOS/build-input/gen/project/bazel"
+    },
+    "WorkspaceRootPath" : {
+      "p" : "/Users/precrati/Telegram-iOS"
+    }
+  }
+}

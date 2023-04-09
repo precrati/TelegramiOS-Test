@@ -1,0 +1,2 @@
+#!/bin/sh
+/Users/precrati/Telegram-iOS/build-input/bazel-5.3.1-darwin-arm64 "$@" --override_repository=build_configuration=/Users/precrati/Telegram-iOS/build-input/configuration-repository

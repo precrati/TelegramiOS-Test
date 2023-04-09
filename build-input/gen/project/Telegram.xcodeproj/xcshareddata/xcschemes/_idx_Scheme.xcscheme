@@ -1,0 +1,1069 @@
+
+<Scheme version="1.3" LastUpgradeVersion="1000">
+    <BuildAction parallelizeBuildables="YES" buildImplicitDependencies="YES">
+        <BuildActionEntries>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A068DAE8600000000" BuildableName="_idx_Pasteboard_A6EEAF61_ios_min11.0.framework" BlueprintName="_idx_Pasteboard_A6EEAF61_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_libsrtp_A5838D62_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A420E090200000000" BuildableName="lib_idx_libsrtp_A5838D62_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A36BCE6F800000000" BuildableName="_idx_TelegramPresentationData_4150AD15_ios_min11.0.framework" BlueprintName="_idx_TelegramPresentationData_4150AD15_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ABC15CE5400000000" BuildableIdentifier="primary" BuildableName="_idx_PeersNearbyIconNode_DF7CA067_ios_min11.0.framework" BlueprintName="_idx_PeersNearbyIconNode_DF7CA067_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AF0B140F600000000" BuildableIdentifier="primary" BuildableName="_idx_SearchPeerMembers_64172A36_ios_min11.0.framework" BlueprintName="_idx_SearchPeerMembers_64172A36_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_EditableChatTextNode_89911ECC_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2392499800000000" BlueprintName="_idx_EditableChatTextNode_89911ECC_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_BotPaymentsUI_E8D1AC24_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A7BCCBDA800000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_BotPaymentsUI_E8D1AC24_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_ChatTitleView_8BE7777A_ios_min11.0.framework" BlueprintName="_idx_ChatTitleView_8BE7777A_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AAD2159A600000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_SliderContextItem_FB884B3F_ios_min11.0" BlueprintIdentifier="B7559A9AE290374A00000000" BuildableName="_idx_SliderContextItem_FB884B3F_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_MoreButtonNode_31C19629_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AE9F2A13400000000" BuildableName="_idx_MoreButtonNode_31C19629_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_DateSelectionUI_8F8D8A87_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ABBCB8E6200000000" BuildableName="_idx_DateSelectionUI_8F8D8A87_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_BundleIconComponent_507EBE99_ios_min11.0" BuildableName="_idx_BundleIconComponent_507EBE99_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A0A591A4800000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AF6AF206200000000" BuildableName="_idx_ImageBlur_2F7ED3F8_ios_min11.0.framework" BlueprintName="_idx_ImageBlur_2F7ED3F8_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_GZip_9E1C213B_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_GZip_9E1C213B_ios_min11.0.a" BlueprintIdentifier="B7559A9A02C95E2C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_ChatMessageInteractiveMediaBadge_387A5A00_ios_min11.0.framework" BlueprintName="_idx_ChatMessageInteractiveMediaBadge_387A5A00_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A37D50DB200000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_EncryptionKeyVisualization_2ED1F4B5_ios_min11.0.framework" BlueprintIdentifier="B7559A9A2442F94200000000" BlueprintName="_idx_EncryptionKeyVisualization_2ED1F4B5_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_ViewControllerComponent_0C0808F4_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AE2FCE5B800000000" BuildableName="_idx_ViewControllerComponent_0C0808F4_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_ActionSheetPeerItem_F12C85FE_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_ActionSheetPeerItem_F12C85FE_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ACD80285E00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_ReactionImageComponent_C773E964_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A45446CCA00000000" BlueprintName="_idx_ReactionImageComponent_C773E964_ios_min11.0" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_MultilineTextWithEntitiesComponent_63E87A7C_ios_min11.0.framework" BlueprintIdentifier="B7559A9A8BAA8A1600000000" BlueprintName="_idx_MultilineTextWithEntitiesComponent_63E87A7C_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A91E8463600000000" BuildableIdentifier="primary" BuildableName="_idx_DebugSettingsUI_D4C47D3F_ios_min11.0.framework" BlueprintName="_idx_DebugSettingsUI_D4C47D3F_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_InAppPurchaseManager_3F9D9ECF_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AF170976200000000" BuildableName="_idx_InAppPurchaseManager_3F9D9ECF_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A63858B9200000000" BuildableIdentifier="primary" BuildableName="_idx_Postbox_8569E486_ios_min11.0.framework" BlueprintName="_idx_Postbox_8569E486_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A1F08697000000000" BuildableName="lib_idx_WatchBridgeAudioImpl_B8BD22F9_ios_min11.0.a" BuildableIdentifier="primary" BlueprintName="_idx_WatchBridgeAudioImpl_B8BD22F9_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A49095D9200000000" BlueprintName="_idx_MosaicLayout_A40175F7_ios_min11.0" BuildableName="_idx_MosaicLayout_A40175F7_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AE447BF3600000000" BuildableName="_idx_VideoAnimationCache_1795EF51_ios_min11.0.framework" BlueprintName="_idx_VideoAnimationCache_1795EF51_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_RangeSet_8AAC73BA_ios_min11.0.framework" BlueprintIdentifier="B7559A9A6E76A6A600000000" BlueprintName="_idx_RangeSet_8AAC73BA_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_ChatTitleActivityNode_1EC773A1_ios_min11.0" BlueprintIdentifier="B7559A9A001A3DF400000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_ChatTitleActivityNode_1EC773A1_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A5F003BEC00000000" BuildableIdentifier="primary" BuildableName="_idx_AppLock_B76F1CD2_ios_min11.0.framework" BlueprintName="_idx_AppLock_B76F1CD2_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_PhoneNumberFormat_8EBE369B_ios_min11.0.framework" BlueprintIdentifier="B7559A9ABD6C9FE200000000" BlueprintName="_idx_PhoneNumberFormat_8EBE369B_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A0F470B5600000000" BuildableName="_idx_NotificationExceptionsScreen_256DCA35_ios_min11.0.framework" BlueprintName="_idx_NotificationExceptionsScreen_256DCA35_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_PasscodeInputFieldNode_61D921A7_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A581221CC00000000" BuildableName="_idx_PasscodeInputFieldNode_61D921A7_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A2DB076FE00000000" BlueprintName="_idx_UrlHandling_DB62F5AF_ios_min11.0" BuildableName="_idx_UrlHandling_DB62F5AF_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_UndoPanelComponent_C3CF2FBB_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ABA9279D200000000" BuildableIdentifier="primary" BuildableName="_idx_UndoPanelComponent_C3CF2FBB_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_RaiseToListen_FAB6CD7E_ios_min11.0" BlueprintIdentifier="B7559A9AE688452400000000" BuildableName="_idx_RaiseToListen_FAB6CD7E_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC991A31E00000000" BlueprintName="_idx_TemporaryCachedPeerDataManager_712281FD_ios_min11.0" BuildableName="_idx_TemporaryCachedPeerDataManager_712281FD_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_EmojiStatusSelectionComponent_74FEC1F1_ios_min11.0.framework" BlueprintName="_idx_EmojiStatusSelectionComponent_74FEC1F1_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A775A94D800000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_ChatListSearchItemHeader_0F859C27_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AF093F72400000000" BlueprintName="_idx_ChatListSearchItemHeader_0F859C27_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_EmojiTextAttachmentView_A30453AA_ios_min11.0" BuildableName="_idx_EmojiTextAttachmentView_A30453AA_ios_min11.0.framework" BlueprintIdentifier="B7559A9A3966655800000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_LottieComponentEmojiContent_C666D079_ios_min11.0.framework" BlueprintIdentifier="B7559A9ABD09BC0C00000000" BuildableIdentifier="primary" BlueprintName="_idx_LottieComponentEmojiContent_C666D079_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_TelegramCallsUI_077CC677_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A2070451C00000000" BuildableName="_idx_TelegramCallsUI_077CC677_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A3E15FF0800000000" BuildableName="_idx_ChatListHeaderComponent_2A54A1BB_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_ChatListHeaderComponent_2A54A1BB_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="lib_idx_MimeTypes_F8C30F32_ios_min11.0.a" BlueprintIdentifier="B7559A9A9020E9F200000000" BlueprintName="_idx_MimeTypes_F8C30F32_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_HexColor_142E80E2_ios_min11.0" BuildableName="_idx_HexColor_142E80E2_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2C49E95600000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_PeerAvatarGalleryUI_83691A42_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_PeerAvatarGalleryUI_83691A42_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AB75D31A000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A66B70E7200000000" BlueprintName="_idx_ChatListSearchRecentPeersNode_6321AB27_ios_min11.0" BuildableName="_idx_ChatListSearchRecentPeersNode_6321AB27_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A54DD998200000000" BuildableName="_idx_ChatImportUI_C0A39128_ios_min11.0.framework" BlueprintName="_idx_ChatImportUI_C0A39128_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_AccountUtils_184A5D84_ios_min11.0.framework" BlueprintIdentifier="B7559A9ABBD419E600000000" BlueprintName="_idx_AccountUtils_184A5D84_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_LottieMeshSwift_7021CB8B_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC5EBF56600000000" BuildableName="_idx_LottieMeshSwift_7021CB8B_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_ChatEntityKeyboardInputNode_43EC4E95_ios_min11.0.framework" BlueprintName="_idx_ChatEntityKeyboardInputNode_43EC4E95_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A92FDEC8000000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_Sunrise_F373045E_ios_min11.0" BlueprintIdentifier="B7559A9A644FE7CE00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_Sunrise_F373045E_ios_min11.0.a" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AAC7BC40000000000" BuildableName="_idx_MetalImageView_49F3B901_ios_min11.0.framework" BlueprintName="_idx_MetalImageView_49F3B901_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AEFF0651C00000000" BuildableIdentifier="primary" BuildableName="lib_idx_LegacyReachability_7C55A2F9_ios_min11.0.a" BlueprintName="_idx_LegacyReachability_7C55A2F9_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_AnimatedTextComponent_2210947A_ios_min11.0.framework" BlueprintName="_idx_AnimatedTextComponent_2210947A_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A87A0C10000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_EmojiSuggestionsComponent_82CC7220_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_EmojiSuggestionsComponent_82CC7220_ios_min11.0.framework" BlueprintIdentifier="B7559A9AF3EFC83C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A648F79A000000000" BuildableName="_idx_LegacyMediaPickerUI_2C5D47B3_ios_min11.0.framework" BlueprintName="_idx_LegacyMediaPickerUI_2C5D47B3_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A96E7D6EC00000000" BuildableName="_idx_WebsiteType_7F2F8DE3_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_WebsiteType_7F2F8DE3_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_Pdf_B23C054C_ios_min11.0.framework" BlueprintIdentifier="B7559A9A5C8A3C2200000000" BlueprintName="_idx_Pdf_B23C054C_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A19E13A0400000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_AttachmentTextInputPanelNode_D8DFAC41_ios_min11.0" BuildableName="_idx_AttachmentTextInputPanelNode_D8DFAC41_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AED51018000000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_BuildConfigExtra_2681FC7E_ios_min11.0" BuildableName="lib_idx_BuildConfigExtra_2681FC7E_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_InvisibleInkDustNode_EB1726DF_ios_min11.0.framework" BlueprintName="_idx_InvisibleInkDustNode_EB1726DF_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AC328E98400000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A205280CA00000000" BuildableName="_idx_BrowserUI_ADBC4CF1_ios_min11.0.framework" BlueprintName="_idx_BrowserUI_ADBC4CF1_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A5E038B3E00000000" BuildableName="_idx_ItemListUI_33CD0CA4_ios_min11.0.framework" BlueprintName="_idx_ItemListUI_33CD0CA4_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_AudioWaveformComponent_C784C6CF_ios_min11.0.framework" BlueprintName="_idx_AudioWaveformComponent_C784C6CF_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A35C0207C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_StickerResources_0CF72960_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A72B4941200000000" BuildableName="_idx_StickerResources_0CF72960_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_MeshAnimationCache_9FF29839_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_MeshAnimationCache_9FF29839_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A56DC130000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_TelegramUpdateUI_8DC06F24_ios_min11.0" BuildableName="_idx_TelegramUpdateUI_8DC06F24_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A3DA1267400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_ComponentDisplayAdapters_D58D7985_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A8EECDA1C00000000" BlueprintName="_idx_ComponentDisplayAdapters_D58D7985_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_AnimatedCountLabelNode_6AF5151E_ios_min11.0.framework" BlueprintIdentifier="B7559A9AB43D900800000000" BuildableIdentifier="primary" BlueprintName="_idx_AnimatedCountLabelNode_6AF5151E_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ABE447B8400000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_PasswordSetupUI_F919AEA3_ios_min11.0.framework" BlueprintName="_idx_PasswordSetupUI_F919AEA3_ios_min11.0" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A72DB004C00000000" BuildableName="_idx_ItemListStickerPackItem_9068AEB8_ios_min11.0.framework" BlueprintName="_idx_ItemListStickerPackItem_9068AEB8_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="lib_idx_AppBundle_D19EA652_ios_min11.0.a" BlueprintName="_idx_AppBundle_D19EA652_ios_min11.0" BlueprintIdentifier="B7559A9A7DDB3B0400000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="lib_idx_WebPBinding_2600C648_ios_min11.0.a" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A185A1ABE00000000" BlueprintName="_idx_WebPBinding_2600C648_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_CodeInputView_BAF6729A_ios_min11.0.framework" BlueprintIdentifier="B7559A9A278D73C200000000" BlueprintName="_idx_CodeInputView_BAF6729A_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_ChatListUI_834AA35E_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_ChatListUI_834AA35E_ios_min11.0" BlueprintIdentifier="B7559A9A2B3FDEA400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="lib_idx_RingBuffer_C6E418A3_ios_min11.0.a" BuildableIdentifier="primary" BlueprintName="_idx_RingBuffer_C6E418A3_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AD71F5FD000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_Camera_650AA86F_ios_min11.0" BlueprintIdentifier="B7559A9A3DA25EC000000000" BuildableIdentifier="primary" BuildableName="_idx_Camera_650AA86F_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_DirectionalPanGesture_E05691FD_ios_min11.0.framework" BlueprintName="_idx_DirectionalPanGesture_E05691FD_ios_min11.0" BlueprintIdentifier="B7559A9AB6EEA39200000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_OpenInExternalAppUI_21CDC754_ios_min11.0.framework" BlueprintIdentifier="B7559A9A2EF482EE00000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_OpenInExternalAppUI_21CDC754_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_LocalAuth_67ABB9D7_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_LocalAuth_67ABB9D7_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A18382B0C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9ADD4AF47200000000" BlueprintName="_idx_Reachability_A3746E9B_ios_min11.0" BuildableName="_idx_Reachability_A3746E9B_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9ADAE5510C00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_ogg_267E078C_ios_min11.0.a" BlueprintName="_idx_ogg_267E078C_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="lib_idx_MonotonicTime_697F5F23_ios_min11.0.a" BlueprintName="_idx_MonotonicTime_697F5F23_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A20D0B36800000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ImageContentAnalysis_E8F60898_ios_min11.0.framework" BlueprintName="_idx_ImageContentAnalysis_E8F60898_ios_min11.0" BlueprintIdentifier="B7559A9AE33683A400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A20C4959400000000" BlueprintName="_idx_TelegramUIPreferences_D47CE3E6_ios_min11.0" BuildableName="_idx_TelegramUIPreferences_D47CE3E6_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_EmojiStatusComponent_119ED7F7_ios_min11.0" BlueprintIdentifier="B7559A9A12F8A37600000000" BuildableName="_idx_EmojiStatusComponent_119ED7F7_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A39A0BC0600000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_TextFormat_7E0655E6_ios_min11.0" BuildableName="_idx_TextFormat_7E0655E6_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_WallpaperBackgroundNode_9811ACEF_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC305855800000000" BlueprintName="_idx_WallpaperBackgroundNode_9811ACEF_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AA24D50D200000000" BuildableName="_idx_PeerInfoAvatarListNode_C5DD48CD_ios_min11.0.framework" BlueprintName="_idx_PeerInfoAvatarListNode_C5DD48CD_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_SSignalKit_63EFAF8E_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A0E08B6FA00000000" BuildableName="lib_idx_SSignalKit_63EFAF8E_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AD328A20C00000000" BuildableName="lib_idx_RLottieBinding_C84CF972_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_RLottieBinding_C84CF972_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_SelectablePeerNode_46B4EED2_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9ACCC0157800000000" BuildableName="_idx_SelectablePeerNode_46B4EED2_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A417F238800000000" BuildableName="_idx_AlertUI_F0B40A69_ios_min11.0.framework" BlueprintName="_idx_AlertUI_F0B40A69_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A4BD46E4800000000" BlueprintName="_idx_ssl_6D13BA19_ios_min11.0" BuildableIdentifier="primary" BuildableName="lib_idx_ssl_6D13BA19_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9ABCABCE5A00000000" BlueprintName="_idx_AnimationCache_FE736EB9_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_AnimationCache_FE736EB9_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_GraphCore_3714DB7D_ios_min11.0" BlueprintIdentifier="B7559A9AE4E4609800000000" BuildableName="_idx_GraphCore_3714DB7D_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ADD6A7CB600000000" BuildableName="_idx_AudioTranscriptionButtonComponent_D01657AD_ios_min11.0.framework" BlueprintName="_idx_AudioTranscriptionButtonComponent_D01657AD_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="lib_idx_LottieMeshBinding_BCDA6421_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AC947610C00000000" BuildableIdentifier="primary" BlueprintName="_idx_LottieMeshBinding_BCDA6421_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_UndoUI_46061A47_ios_min11.0.framework" BlueprintName="_idx_UndoUI_46061A47_ios_min11.0" BlueprintIdentifier="B7559A9A3D6C1E9C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_openh264_25E03BE3_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A55359EE200000000" BuildableName="lib_idx_openh264_25E03BE3_ios_min11.0.a" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A0D39544E00000000" BlueprintName="_idx_MurMurHash32_2DEC1A89_ios_min11.0" BuildableName="lib_idx_MurMurHash32_2DEC1A89_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A6BDE175600000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ChatInputPanelContainer_5A525EA6_ios_min11.0.framework" BlueprintName="_idx_ChatInputPanelContainer_5A525EA6_ios_min11.0" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_Lottie_5988C560_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_Lottie_5988C560_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A0951539400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A018D996600000000" BuildableName="lib_idx_LibYuvBinding_C32F8730_ios_min11.0.a" BlueprintName="_idx_LibYuvBinding_C32F8730_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A3958FC1A00000000" BuildableName="lib_idx_libphonenumber_50424E27_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_libphonenumber_50424E27_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="lib_idx_LottieMesh_034B528C_ios_min11.0.a" BlueprintName="_idx_LottieMesh_034B528C_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC8B131E600000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A5C77AAD600000000" BlueprintName="_idx_TextInputComponent_A187072A_ios_min11.0" BuildableName="_idx_TextInputComponent_A187072A_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A89478B5600000000" BlueprintName="_idx_Markdown_401C9DF7_ios_min11.0" BuildableName="_idx_Markdown_401C9DF7_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_QrCodeUI_26E0696F_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_QrCodeUI_26E0696F_ios_min11.0.framework" BlueprintIdentifier="B7559A9ADFB22D6C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_ManagedAnimationNode_B5F60E62_ios_min11.0" BuildableName="_idx_ManagedAnimationNode_B5F60E62_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AA95B686C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ABBD6F5F800000000" BuildableName="_idx_TabBarUI_B2B60A23_ios_min11.0.framework" BlueprintName="_idx_TabBarUI_B2B60A23_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_GridMessageSelectionNode_34C497A0_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AA97AD95200000000" BlueprintName="_idx_GridMessageSelectionNode_34C497A0_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A4E9E1E8C00000000" BlueprintName="_idx_LottieAnimationCache_2CEF06F8_ios_min11.0" BuildableName="_idx_LottieAnimationCache_2CEF06F8_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_SwipeToDismissGesture_73F10560_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_SwipeToDismissGesture_73F10560_ios_min11.0.framework" BlueprintIdentifier="B7559A9AD901517A00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_WidgetItemsUtils_92C36049_ios_min11.0.framework" BlueprintName="_idx_WidgetItemsUtils_92C36049_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AA2BC763A00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_InstantPageCache_AA9D98F1_ios_min11.0.framework" BlueprintIdentifier="B7559A9A09F9172600000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_InstantPageCache_AA9D98F1_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_WatchBridge_B1511A50_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_WatchBridge_B1511A50_ios_min11.0" BlueprintIdentifier="B7559A9AF5930A6000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A7EC0E51A00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_SemanticStatusNode_BB0E7A80_ios_min11.0.framework" BlueprintName="_idx_SemanticStatusNode_BB0E7A80_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_GlassButtonNode_2E91AF21_ios_min11.0.framework" BlueprintName="_idx_GlassButtonNode_2E91AF21_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AB9058DF600000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_ListSectionHeaderNode_02C8F139_ios_min11.0" BlueprintIdentifier="B7559A9ABB8F7E5A00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ListSectionHeaderNode_02C8F139_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_ActivityIndicator_62017AFE_ios_min11.0.framework" BlueprintIdentifier="B7559A9A22A0FA7400000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_ActivityIndicator_62017AFE_ios_min11.0" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_DeviceLocationManager_D38A235D_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A850F8D0A00000000" BlueprintName="_idx_DeviceLocationManager_D38A235D_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="lib_idx_Main_9141C535_ios_min11.0.a" BlueprintIdentifier="B7559A9AA95232EA00000000" BlueprintName="_idx_Main_9141C535_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_Tuples_F2768D2E_ios_min11.0.framework" BlueprintIdentifier="B7559A9A13A215F000000000" BuildableIdentifier="primary" BlueprintName="_idx_Tuples_F2768D2E_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_GradientBackground_9734C321_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_GradientBackground_9734C321_ios_min11.0" BlueprintIdentifier="B7559A9AB0D0EAAC00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A71B5552C00000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_TelegramPermissionsUI_0FC95CA9_ios_min11.0" BuildableName="_idx_TelegramPermissionsUI_0FC95CA9_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AD41EBB4400000000" BlueprintName="_idx_ReactionButtonListComponent_2FC875AE_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_ReactionButtonListComponent_2FC875AE_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_TelegramApi_D50CFE31_ios_min11.0" BlueprintIdentifier="B7559A9A8E0488CA00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_TelegramApi_D50CFE31_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_MediaPickerUI_4F750B1F_ios_min11.0.framework" BlueprintIdentifier="B7559A9AC295CF7200000000" BlueprintName="_idx_MediaPickerUI_4F750B1F_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A28CD298200000000" BlueprintName="_idx_SparseItemGrid_9343493C_ios_min11.0" BuildableName="_idx_SparseItemGrid_9343493C_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_LocationUI_A73571EC_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A9BC7866000000000" BuildableName="_idx_LocationUI_A73571EC_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A3EEEFB6800000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_CalendarMessageScreen_A4AC9ACB_ios_min11.0" BuildableName="_idx_CalendarMessageScreen_A4AC9ACB_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_DeviceAccess_EADBF51E_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AD5122AF000000000" BlueprintName="_idx_DeviceAccess_EADBF51E_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A3933300A00000000" BuildableName="_idx_TelegramStringFormatting_0B37FC7F_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_TelegramStringFormatting_0B37FC7F_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_HorizontalPeerItem_5DE2BEC2_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_HorizontalPeerItem_5DE2BEC2_ios_min11.0.framework" BlueprintIdentifier="B7559A9A741C1BB400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_PromptUI_671B8EC1_ios_min11.0.framework" BlueprintIdentifier="B7559A9A029DEEAE00000000" BlueprintName="_idx_PromptUI_671B8EC1_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2967907400000000" BlueprintName="_idx_Speak_715995D3_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_Speak_715995D3_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_GameUI_1DC3EFAF_ios_min11.0.framework" BlueprintName="_idx_GameUI_1DC3EFAF_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AF05E5D0C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AD82B160400000000" BlueprintName="_idx_MediaResources_77AA30CE_ios_min11.0" BuildableName="_idx_MediaResources_77AA30CE_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_ComponentFlow_3CCCEE5B_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_ComponentFlow_3CCCEE5B_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AF24E357200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_opusfile_0B0105DD_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="lib_idx_opusfile_0B0105DD_ios_min11.0.a" BlueprintIdentifier="B7559A9AF5E2EFBE00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_MusicAlbumArtResources_59180236_ios_min11.0.framework" BlueprintIdentifier="B7559A9A3D6CAA8400000000" BlueprintName="_idx_MusicAlbumArtResources_59180236_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_SendInviteLinkScreen_DCAA7EAC_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A9EF5553600000000" BlueprintName="_idx_SendInviteLinkScreen_DCAA7EAC_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_PremiumUI_ADBBAA1C_ios_min11.0.framework" BlueprintName="_idx_PremiumUI_ADBBAA1C_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AB966F79E00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="lib_idx_DarwinDirStat_7016F202_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A052174FE00000000" BuildableIdentifier="primary" BlueprintName="_idx_DarwinDirStat_7016F202_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_PresentationDataUtils_8AEA26CF_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A46D0ED8800000000" BuildableName="_idx_PresentationDataUtils_8AEA26CF_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_WallpaperResources_1050FBAA_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A28C46A1400000000" BuildableName="_idx_WallpaperResources_1050FBAA_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_GalleryData_F23253DD_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ADAA1800E00000000" BlueprintName="_idx_GalleryData_F23253DD_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_ImageCompression_A68B3163_ios_min11.0.framework" BlueprintName="_idx_ImageCompression_A68B3163_ios_min11.0" BlueprintIdentifier="B7559A9AD6F1D89200000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AE0CC878A00000000" BuildableName="lib_idx_StringTransliteration_74C834A0_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_StringTransliteration_74C834A0_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_ChatControllerInteraction_7B5E7829_ios_min11.0" BlueprintIdentifier="B7559A9AEFA528BC00000000" BuildableName="_idx_ChatControllerInteraction_7B5E7829_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_FeaturedStickersScreen_FDFC09A5_ios_min11.0" BlueprintIdentifier="B7559A9A780C52FE00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_FeaturedStickersScreen_FDFC09A5_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_TelegramUI_9C979606_ios_min11.0.framework" BlueprintName="_idx_TelegramUI_9C979606_ios_min11.0" BlueprintIdentifier="B7559A9AC03386EE00000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AD134609800000000" BuildableIdentifier="primary" BuildableName="_idx_PeerOnlineMarkerNode_48925E8D_ios_min11.0.framework" BlueprintName="_idx_PeerOnlineMarkerNode_48925E8D_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2660D82200000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_CallListUI_4ED34733_ios_min11.0" BuildableName="_idx_CallListUI_4ED34733_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_TelegramCore_04C0485C_ios_min11.0" BlueprintIdentifier="B7559A9AC20A5D6E00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_TelegramCore_04C0485C_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AEE4B65D600000000" BlueprintName="_idx_ShareController_B6B957F5_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ShareController_B6B957F5_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AA364D3B000000000" BlueprintName="_idx_CountrySelectionUI_3E0BF278_ios_min11.0" BuildableName="_idx_CountrySelectionUI_3E0BF278_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_PagerComponent_6809BCA7_ios_min11.0" BuildableName="_idx_PagerComponent_6809BCA7_ios_min11.0.framework" BlueprintIdentifier="B7559A9A8554CE7E00000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_TgVoip_346DBD77_ios_min11.0" BuildableName="lib_idx_TgVoip_346DBD77_ios_min11.0.a" BlueprintIdentifier="B7559A9A0349C0D600000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_ChatMessageBackground_ED524BB4_ios_min11.0.framework" BlueprintName="_idx_ChatMessageBackground_ED524BB4_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AD4FE89F000000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ABD19758E00000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_PlatformRestrictionMatching_0FE69A36_ios_min11.0.framework" BlueprintName="_idx_PlatformRestrictionMatching_0FE69A36_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A51F1923600000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ActivityIndicatorComponent_8BF8FD76_ios_min11.0.framework" BlueprintName="_idx_ActivityIndicatorComponent_8BF8FD76_ios_min11.0" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_WebUI_A27BED00_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A97B6524C00000000" BuildableName="_idx_WebUI_A27BED00_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_NetworkLogging_3E2D9E4D_ios_min11.0" BuildableName="lib_idx_NetworkLogging_3E2D9E4D_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A8BEB7CE200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_SaveToCameraRoll_73D66E50_ios_min11.0" BlueprintIdentifier="B7559A9A4DA07DD400000000" BuildableName="_idx_SaveToCameraRoll_73D66E50_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="lib_idx_DeviceProximity_CEB21FA6_ios_min11.0.a" BlueprintName="_idx_DeviceProximity_CEB21FA6_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AA8D9BC8600000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_AuthorizationUI_43AEFBD4_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A2C40F16600000000" BlueprintName="_idx_AuthorizationUI_43AEFBD4_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_DirectMediaImageCache_165B7E3F_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_DirectMediaImageCache_165B7E3F_ios_min11.0" BlueprintIdentifier="B7559A9AA3E9B35800000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_UrlWhitelist_2B914528_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A85048F2600000000" BuildableName="_idx_UrlWhitelist_2B914528_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ADE359F1C00000000" BlueprintName="_idx_HierarchyTrackingLayer_B2981D03_ios_min11.0" BuildableName="_idx_HierarchyTrackingLayer_B2981D03_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_ConfettiEffect_1D1917C4_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A9F8B763400000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ConfettiEffect_1D1917C4_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_ItemListAvatarAndNameInfoItem_5FA0B908_ios_min11.0.framework" BlueprintName="_idx_ItemListAvatarAndNameInfoItem_5FA0B908_ios_min11.0" BlueprintIdentifier="B7559A9A256C6FB600000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_StatisticsUI_2C37CDA5_ios_min11.0" BlueprintIdentifier="B7559A9A42479DB000000000" BuildableName="_idx_StatisticsUI_2C37CDA5_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9ACF445CEC00000000" BuildableName="_idx_QrCode_7FC96D87_ios_min11.0.framework" BlueprintName="_idx_QrCode_7FC96D87_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A8E43EA7600000000" BuildableName="_idx_CheckNode_4A05B604_ios_min11.0.framework" BlueprintName="_idx_CheckNode_4A05B604_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_ConvertOpusToAAC_FF8880C4_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AEBF0F1A000000000" BuildableName="_idx_ConvertOpusToAAC_FF8880C4_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_StringPluralization_B42F3675_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A0E99FF8200000000" BlueprintName="_idx_StringPluralization_B42F3675_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_AvatarEditorScreen_95581DCB_ios_min11.0.framework" BlueprintIdentifier="B7559A9A45C24E1A00000000" BlueprintName="_idx_AvatarEditorScreen_95581DCB_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_AudioTranscriptionPendingIndicatorComponent_FC543813_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AA840B43E00000000" BuildableName="_idx_AudioTranscriptionPendingIndicatorComponent_FC543813_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="lib_idx_UIKitRuntimeUtils_660035B9_ios_min11.0.a" BlueprintIdentifier="B7559A9AC668651E00000000" BlueprintName="_idx_UIKitRuntimeUtils_660035B9_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A11724AB000000000" BlueprintName="_idx_Geocoding_33E9F15A_ios_min11.0" BuildableName="_idx_Geocoding_33E9F15A_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_AnimatedStickerNode_9ABE42EB_ios_min11.0" BuildableName="_idx_AnimatedStickerNode_9ABE42EB_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A6D95C35400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A4FC3B75000000000" BlueprintName="_idx_TelegramPermissions_B2429618_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_TelegramPermissions_B2429618_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AFACBC9FC00000000" BuildableName="_idx_AttachmentUI_ACACA826_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_AttachmentUI_ACACA826_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_MozjpegBinding_9021F257_ios_min11.0" BuildableName="lib_idx_MozjpegBinding_9021F257_ios_min11.0.a" BlueprintIdentifier="B7559A9A3993162200000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_webrtc_lib_A8B6DAE4_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2DAFDD4000000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_webrtc_lib_A8B6DAE4_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="lib_idx_rnnoise_7421E160_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_rnnoise_7421E160_ios_min11.0" BlueprintIdentifier="B7559A9A17C021E200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AF93D8C6800000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ChatListFilterSettingsHeaderItem_0CF77A44_ios_min11.0.framework" BlueprintName="_idx_ChatListFilterSettingsHeaderItem_0CF77A44_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_libtess2_30688FFA_ios_min11.0" BuildableName="lib_idx_libtess2_30688FFA_ios_min11.0.a" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AB53655D400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_sqlcipher_DFBB11E8_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A26DD239E00000000" BuildableName="lib_idx_sqlcipher_DFBB11E8_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A31B22AB200000000" BuildableName="lib_idx_Crc32_FD69C29C_ios_min11.0.a" BlueprintName="_idx_Crc32_FD69C29C_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_PeerInfoUI_BC08395C_ios_min11.0" BuildableName="_idx_PeerInfoUI_BC08395C_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC00EDE6C00000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AB936F22C00000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_MergeLists_05B6A16D_ios_min11.0" BuildableName="_idx_MergeLists_05B6A16D_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_ChatListSearchItemNode_43954AED_ios_min11.0.framework" BlueprintName="_idx_ChatListSearchItemNode_43954AED_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A7EC7AAE000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_ChatInputNode_9D5B6779_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A9179A57200000000" BlueprintName="_idx_ChatInputNode_9D5B6779_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_ReactionListContextMenuContent_0279878D_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_ReactionListContextMenuContent_0279878D_ios_min11.0" BlueprintIdentifier="B7559A9A25676F6200000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_GalleryUI_2890BC1E_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_GalleryUI_2890BC1E_ios_min11.0" BlueprintIdentifier="B7559A9ABB8F78E800000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="lib_idx_CryptoUtils_8299B4FC_ios_min11.0.a" BlueprintName="_idx_CryptoUtils_8299B4FC_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A206328FE00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AF8378A6000000000" BuildableIdentifier="primary" BuildableName="_idx_MapResourceToAvatarSizes_5CF334EB_ios_min11.0.framework" BlueprintName="_idx_MapResourceToAvatarSizes_5CF334EB_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A0C6C19A400000000" BuildableName="_idx_DeleteChatPeerActionSheetItem_8E0F5E21_ios_min11.0.framework" BlueprintName="_idx_DeleteChatPeerActionSheetItem_8E0F5E21_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_LocalAudioTranscription_42F7E187_ios_min11.0.framework" BlueprintIdentifier="B7559A9AC3DEE67200000000" BlueprintName="_idx_LocalAudioTranscription_42F7E187_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A12C54B4600000000" BuildableIdentifier="primary" BlueprintName="_idx_SwitchNode_06C7FC44_ios_min11.0" BuildableName="_idx_SwitchNode_06C7FC44_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AAF6BCE8600000000" BuildableName="_idx_TextSelectionNode_BFE5F733_ios_min11.0.framework" BlueprintName="_idx_TextSelectionNode_BFE5F733_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ACB13950C00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_PasscodeUI_4DB5583D_ios_min11.0.framework" BlueprintName="_idx_PasscodeUI_4DB5583D_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_ShimmerEffect_1BC00389_ios_min11.0.framework" BlueprintIdentifier="B7559A9AA79F29EC00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_ShimmerEffect_1BC00389_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ABA0DDC2200000000" BuildableIdentifier="primary" BuildableName="_idx_TelegramAnimatedStickerNode_CA306DF9_ios_min11.0.framework" BlueprintName="_idx_TelegramAnimatedStickerNode_CA306DF9_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_MultiplexedVideoNode_1C5A416E_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A9914813000000000" BlueprintName="_idx_MultiplexedVideoNode_1C5A416E_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_ChatSendMessageActionUI_2767B596_ios_min11.0" BuildableName="_idx_ChatSendMessageActionUI_2767B596_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A187A33F000000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_ContextUI_5952FF97_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A42528BE800000000" BuildableName="_idx_ContextUI_5952FF97_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AAA0B2E1800000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_AppLockState_66B924C9_ios_min11.0" BuildableName="_idx_AppLockState_66B924C9_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A97B66DF600000000" BlueprintName="_idx_ImageTransparency_A35DBC49_ios_min11.0" BuildableName="_idx_ImageTransparency_A35DBC49_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_OpenSSLEncryptionProvider_5AB32DE1_ios_min11.0" BlueprintIdentifier="B7559A9A3507C7BC00000000" BuildableName="lib_idx_OpenSSLEncryptionProvider_5AB32DE1_ios_min11.0.a" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AA5711E6600000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_LocationResources_F18F85B4_ios_min11.0.framework" BlueprintName="_idx_LocationResources_F18F85B4_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_AudioBlob_37AD0C40_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A5DB59FFE00000000" BuildableName="_idx_AudioBlob_37AD0C40_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_RadialStatusNode_A212F20A_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A52488F9A00000000" BlueprintName="_idx_RadialStatusNode_A212F20A_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_AsyncDisplayKit_7B377249_ios_min11.0" BuildableName="lib_idx_AsyncDisplayKit_7B377249_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AD1E1695400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A54F089D200000000" BuildableIdentifier="primary" BuildableName="_idx_OverlayStatusController_9122DADA_ios_min11.0.framework" BlueprintName="_idx_OverlayStatusController_9122DADA_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_Lib_E5E8CEA8_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A90760D3800000000" BuildableName="_idx_Lib_E5E8CEA8_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AA52C03E600000000" BuildableIdentifier="primary" BlueprintName="_idx_WatchCommon_6E972359_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_WatchCommon_6E972359_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_WatchBridgeAudio_FD5D8104_ios_min11.0.framework" BlueprintIdentifier="B7559A9A054733B200000000" BlueprintName="_idx_WatchBridgeAudio_FD5D8104_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_PeersNearbyUI_9B1DFEEC_ios_min11.0.framework" BlueprintName="_idx_PeersNearbyUI_9B1DFEEC_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AA6F10A6000000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AB09B75A400000000" BuildableName="_idx_NotificationSoundSelectionUI_A23FBD4F_ios_min11.0.framework" BlueprintName="_idx_NotificationSoundSelectionUI_A23FBD4F_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_UrlEscaping_3B94C356_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A807CB18400000000" BlueprintName="_idx_UrlEscaping_3B94C356_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A9607E92C00000000" BuildableName="_idx_ComposePollUI_711B5688_ios_min11.0.framework" BlueprintName="_idx_ComposePollUI_711B5688_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A7B21141E00000000" BlueprintName="_idx_ScreenCaptureDetection_986E78AF_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_ScreenCaptureDetection_986E78AF_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A0DB248B600000000" BuildableIdentifier="primary" BuildableName="_idx_InstantPageUI_3A71AF0A_ios_min11.0.framework" BlueprintName="_idx_InstantPageUI_3A71AF0A_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_ShareItems_5EEFC46B_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A84FD550200000000" BuildableIdentifier="primary" BuildableName="_idx_ShareItems_5EEFC46B_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A31B9B74000000000" BuildableIdentifier="primary" BlueprintName="_idx_WidgetItems_63AFFA50_ios_min11.0" BuildableName="_idx_WidgetItems_63AFFA50_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A7603586800000000" BuildableName="_idx_DrawingUI_995FAA18_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_DrawingUI_995FAA18_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_TinyThumbnail_E6A7DA8B_ios_min11.0" BuildableName="_idx_TinyThumbnail_E6A7DA8B_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A106FE5C400000000" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_DatePickerNode_61186698_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_DatePickerNode_61186698_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AB8400A9800000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_LanguageSuggestionUI_1BB8F4A2_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A9CAA4E0E00000000" BuildableName="_idx_LanguageSuggestionUI_1BB8F4A2_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A8C883B3600000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_EncryptionKeyVisualizationImpl_B99E22BC_ios_min11.0" BuildableName="lib_idx_EncryptionKeyVisualizationImpl_B99E22BC_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_AvatarNode_098BC753_ios_min11.0.framework" BlueprintName="_idx_AvatarNode_098BC753_ios_min11.0" BlueprintIdentifier="B7559A9A2E5C8D6200000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A023ECD4000000000" BuildableName="_idx_AvatarVideoNode_9E0A45C4_ios_min11.0.framework" BlueprintName="_idx_AvatarVideoNode_9E0A45C4_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="lib_idx_ImageDCT_08741754_ios_min11.0.a" BlueprintName="_idx_ImageDCT_08741754_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ADE7AE6AA00000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_SegmentedControlNode_22FD60D3_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A3853C85600000000" BlueprintName="_idx_SegmentedControlNode_22FD60D3_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_CreditCardInputComponent_A9D0FBBD_ios_min11.0.framework" BlueprintIdentifier="B7559A9A2F75129800000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_CreditCardInputComponent_A9D0FBBD_ios_min11.0" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AFD320C3800000000" BuildableIdentifier="primary" BuildableName="_idx_SolidRoundedButtonNode_201E0ABE_ios_min11.0.framework" BlueprintName="_idx_SolidRoundedButtonNode_201E0ABE_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_TouchDownGesture_468EAACB_ios_min11.0.framework" BlueprintName="_idx_TouchDownGesture_468EAACB_ios_min11.0" BlueprintIdentifier="B7559A9A24647E7000000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_LocalMediaResources_8922AD97_ios_min11.0.framework" BlueprintIdentifier="B7559A9A6E398F6200000000" BlueprintName="_idx_LocalMediaResources_8922AD97_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_CreateExternalMediaStreamScreen_4CCC00AC_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A0E6A0E0E00000000" BuildableName="_idx_CreateExternalMediaStreamScreen_4CCC00AC_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_MultilineTextComponent_CD97BB18_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A45D4EF9000000000" BuildableName="_idx_MultilineTextComponent_CD97BB18_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_AnimationUI_69F2AA05_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_AnimationUI_69F2AA05_ios_min11.0.framework" BlueprintIdentifier="B7559A9AE4536A6A00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A3A92527C00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_SwiftSignalKit_664E1DA1_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_SwiftSignalKit_664E1DA1_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_LocalizedPeerData_C109830E_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A32A4209200000000" BuildableIdentifier="primary" BuildableName="_idx_LocalizedPeerData_C109830E_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_FetchManagerImpl_381EB468_ios_min11.0.framework" BlueprintIdentifier="B7559A9A6FA7A1F400000000" BlueprintName="_idx_FetchManagerImpl_381EB468_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A9A765BEA00000000" BlueprintName="_idx_MtProtoKit_97E2051F_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_MtProtoKit_97E2051F_ios_min11.0.a" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_BlurredBackgroundComponent_75A64662_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_BlurredBackgroundComponent_75A64662_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ABAB2A66200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_ImportStickerPackUI_330EA84E_ios_min11.0.framework" BlueprintName="_idx_ImportStickerPackUI_330EA84E_ios_min11.0" BlueprintIdentifier="B7559A9A8310541E00000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_ListMessageItem_9C7A7F87_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_ListMessageItem_9C7A7F87_ios_min11.0.framework" BlueprintIdentifier="B7559A9AF244A21400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AD0F89BF200000000" BlueprintName="_idx_TelegramVoip_4E40BD91_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_TelegramVoip_4E40BD91_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A37DA4E9400000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_PKCS_35289DB3_ios_min11.0.a" BlueprintName="_idx_PKCS_35289DB3_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="lib_idx_Svg_A4FDC695_ios_min11.0.a" BlueprintIdentifier="B7559A9A53C6ECF400000000" BlueprintName="_idx_Svg_A4FDC695_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A8CC418F400000000" BuildableName="_idx_TelegramBaseController_F8CA75AE_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_TelegramBaseController_F8CA75AE_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_SheetComponent_B15C90A2_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AB08CA53600000000" BuildableName="_idx_SheetComponent_B15C90A2_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_NotificationsPresentationData_E4B536D5_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A1AF72AD400000000" BlueprintName="_idx_NotificationsPresentationData_E4B536D5_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_InviteLinksUI_FF844460_ios_min11.0" BlueprintIdentifier="B7559A9AEFE9A1FE00000000" BuildableName="_idx_InviteLinksUI_FF844460_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_ProgressNavigationButtonNode_E9688F37_ios_min11.0.framework" BlueprintName="_idx_ProgressNavigationButtonNode_E9688F37_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AAE9E0AFC00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ABE41F07E00000000" BuildableIdentifier="primary" BlueprintName="_idx_LiveLocationManager_1A4A36E3_ios_min11.0" BuildableName="_idx_LiveLocationManager_1A4A36E3_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A009167A000000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_PassportUI_D84372F6_ios_min11.0" BuildableName="_idx_PassportUI_D84372F6_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AB29A78D600000000" BlueprintName="_idx_SettingsUI_FCA6E938_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_SettingsUI_FCA6E938_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AF8E5771000000000" BuildableName="lib_idx_WatchBridgeImpl_2797CE2A_ios_min11.0.a" BlueprintName="_idx_WatchBridgeImpl_2797CE2A_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A803D99A600000000" BlueprintName="_idx_SinglePhoneInputNode_FD88EE82_ios_min11.0" BuildableName="_idx_SinglePhoneInputNode_FD88EE82_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_HashtagSearchUI_2AB6531B_ios_min11.0.framework" BlueprintName="_idx_HashtagSearchUI_2AB6531B_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A1AAE73B200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_TelegramUniversalVideoContent_DC1C2202_ios_min11.0" BlueprintIdentifier="B7559A9A335E010200000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_TelegramUniversalVideoContent_DC1C2202_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A244C2A4000000000" BlueprintName="_idx_SoftwareVideo_C9287DE5_ios_min11.0" BuildableName="_idx_SoftwareVideo_C9287DE5_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A26C375E800000000" BuildableName="_idx_ReactionSelectionNode_218DE037_ios_min11.0.framework" BlueprintName="_idx_ReactionSelectionNode_218DE037_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_TranslateUI_B0FA6CF7_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A2387671800000000" BuildableIdentifier="primary" BlueprintName="_idx_TranslateUI_B0FA6CF7_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_ObjCRuntimeUtils_0BDB060F_ios_min11.0" BlueprintIdentifier="B7559A9AB054878200000000" BuildableName="lib_idx_ObjCRuntimeUtils_0BDB060F_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_StorageUsageScreen_D02C3EAE_ios_min11.0" BlueprintIdentifier="B7559A9A9C69442200000000" BuildableName="_idx_StorageUsageScreen_D02C3EAE_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_AuthorizationUtils_6AC0A3E5_ios_min11.0.framework" BlueprintName="_idx_AuthorizationUtils_6AC0A3E5_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A01DE940600000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_TelegramNotices_0D6461F9_ios_min11.0.framework" BlueprintName="_idx_TelegramNotices_0D6461F9_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A786FF9EC00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableName="_idx_MultiAnimationRenderer_FCCDB3C7_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AF49C35C800000000" BlueprintName="_idx_MultiAnimationRenderer_FCCDB3C7_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_NumberPluralizationForm_B92C224F_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_NumberPluralizationForm_B92C224F_ios_min11.0.a" BlueprintIdentifier="B7559A9AEFB6A96800000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AA3D9D8D800000000" BuildableIdentifier="primary" BuildableName="lib_idx_libyuv_7C956212_ios_min11.0.a" BlueprintName="_idx_libyuv_7C956212_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_Stripe_FA066BC9_ios_min11.0" BuildableName="lib_idx_Stripe_FA066BC9_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A7D3E884400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AAA83397400000000" BuildableName="_idx_TelegramAudio_BF559B61_ios_min11.0.framework" BlueprintName="_idx_TelegramAudio_BF559B61_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A4ECFE08400000000" BuildableIdentifier="primary" BuildableName="_idx_StickerPeekUI_446A39CC_ios_min11.0.framework" BlueprintName="_idx_StickerPeekUI_446A39CC_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_SectionHeaderItem_01B7BE6A_ios_min11.0.framework" BlueprintIdentifier="B7559A9AD015ABBA00000000" BlueprintName="_idx_SectionHeaderItem_01B7BE6A_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A47C8007A00000000" BlueprintName="_idx_SearchBarNode_E06C0016_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_SearchBarNode_E06C0016_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_BuildConfig_FA05EA45_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AD8D6738600000000" BuildableName="lib_idx_BuildConfig_FA05EA45_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AF8C13AC800000000" BuildableName="_idx_TextInputMenu_FDB9075B_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_TextInputMenu_FDB9075B_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_TooltipUI_9EE44719_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A9916393000000000" BuildableName="_idx_TooltipUI_9EE44719_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_ManagedFile_A8CA1096_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC92D95F600000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ManagedFile_A8CA1096_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="lib_idx_crypto_7198146C_ios_min11.0.a" BlueprintIdentifier="B7559A9A9C8FEFCC00000000" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_crypto_7198146C_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AE194745000000000" BuildableIdentifier="primary" BuildableName="_idx_LottieAnimationComponent_7807CF00_ios_min11.0.framework" BlueprintName="_idx_LottieAnimationComponent_7807CF00_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A091004E400000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BuildableName="_idx_PaymentMethodUI_E0FDDAD0_ios_min11.0.framework" BlueprintName="_idx_PaymentMethodUI_E0FDDAD0_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_ChatInterfaceState_21F44332_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_ChatInterfaceState_21F44332_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AA5A06EF400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_ForumCreateTopicScreen_B3342DE9_ios_min11.0.framework" BlueprintIdentifier="B7559A9AA643F00200000000" BuildableIdentifier="primary" BlueprintName="_idx_ForumCreateTopicScreen_B3342DE9_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AB7A92CF000000000" BuildableName="_idx_TextNodeWithEntities_DE71A078_ios_min11.0.framework" BlueprintName="_idx_TextNodeWithEntities_DE71A078_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_CloudData_CF8FFEE6_ios_min11.0.framework" BlueprintName="_idx_CloudData_CF8FFEE6_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AEAFC5FAC00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_Emoji_4FDE3DF1_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AD01E421000000000" BuildableName="_idx_Emoji_4FDE3DF1_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_EntityKeyboard_681A94F1_ios_min11.0.framework" BlueprintIdentifier="B7559A9A09FF88AA00000000" BlueprintName="_idx_EntityKeyboard_681A94F1_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2FCD862200000000" BlueprintName="_idx_UniversalMediaPlayer_CCF9F0BA_ios_min11.0" BuildableName="_idx_UniversalMediaPlayer_CCF9F0BA_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AEC22043200000000" BuildableName="lib_idx_LegacyComponents_2BA01214_ios_min11.0.a" BlueprintName="_idx_LegacyComponents_2BA01214_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AC47185FC00000000" BlueprintName="_idx_CallsEmoji_F6CDA658_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_CallsEmoji_F6CDA658_ios_min11.0.a" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintName="_idx_AnimationCompression_409249D3_ios_min11.0" BlueprintIdentifier="B7559A9ABAD67E1000000000" BuildableName="_idx_AnimationCompression_409249D3_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_PrefixSectionGroupComponent_79CC94FC_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_PrefixSectionGroupComponent_79CC94FC_ios_min11.0" BlueprintIdentifier="B7559A9AE6850A2E00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_AnimatedNavigationStripeNode_044E8DDB_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A5F6C69F400000000" BlueprintName="_idx_AnimatedNavigationStripeNode_044E8DDB_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_LiveLocationPositionNode_E99D039A_ios_min11.0.framework" BlueprintName="_idx_LiveLocationPositionNode_E99D039A_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A924E682200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A3ACCB88C00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_LegacyUI_9A439CBB_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_LegacyUI_9A439CBB_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_NotificationPeerExceptionController_99788B09_ios_min11.0" BuildableName="_idx_NotificationPeerExceptionController_99788B09_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A49DBB20800000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_AnimatedAvatarSetNode_FE1796B4_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AAB103C1A00000000" BuildableName="_idx_AnimatedAvatarSetNode_FE1796B4_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="_idx_LanguageLinkPreviewUI_D926FCEA_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_LanguageLinkPreviewUI_D926FCEA_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A38BAC64800000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_Display_EDC2AE32_ios_min11.0.framework" BlueprintName="_idx_Display_EDC2AE32_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A55D7B80C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_ChatPresentationInterfaceState_7D4147A4_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A958E9C3A00000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ChatPresentationInterfaceState_7D4147A4_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_CounterContollerTitleView_70DA4588_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9ABEA8D98E00000000" BuildableName="_idx_CounterContollerTitleView_70DA4588_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForRunning="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_SearchUI_0D52718F_ios_min11.0" BuildableName="_idx_SearchUI_0D52718F_ios_min11.0.framework" BlueprintIdentifier="B7559A9A2709252C00000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_FileMediaResourceStatus_FFABF9A7_ios_min11.0" BuildableName="_idx_FileMediaResourceStatus_FFABF9A7_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AC02B71D200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_OverlayStatusControllerImpl_E09678B7_ios_min11.0" BuildableName="lib_idx_OverlayStatusControllerImpl_E09678B7_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A2342281400000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_JoinLinkPreviewUI_65EBF1BE_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A5527E2E200000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_JoinLinkPreviewUI_65EBF1BE_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_ChatTextLinkEditUI_0310072C_ios_min11.0" BlueprintIdentifier="B7559A9A2B809F7200000000" BuildableName="_idx_ChatTextLinkEditUI_0310072C_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A317683FC00000000" BuildableIdentifier="primary" BuildableName="lib_idx_YuvConversion_E2701D42_ios_min11.0.a" BlueprintName="_idx_YuvConversion_E2701D42_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_LiveLocationTimerNode_E20BEE81_ios_min11.0" BuildableIdentifier="primary" BuildableName="_idx_LiveLocationTimerNode_E20BEE81_ios_min11.0.framework" BlueprintIdentifier="B7559A9AD68446AA00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_RaiseToListenImpl_C630CC83_ios_min11.0" BuildableName="lib_idx_RaiseToListenImpl_C630CC83_ios_min11.0.a" BlueprintIdentifier="B7559A9A80E1A9F600000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AF57DB46C00000000" BuildableName="_idx_AnimatedStickerComponent_F660EC80_ios_min11.0.framework" BlueprintName="_idx_AnimatedStickerComponent_F660EC80_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_TelegramIntents_BD68DFF0_ios_min11.0" BlueprintIdentifier="B7559A9AAB37C25C00000000" BuildableIdentifier="primary" BuildableName="_idx_TelegramIntents_BD68DFF0_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A7A35533000000000" BuildableName="lib_idx_FFMpegBinding_82885010_ios_min11.0.a" BlueprintName="_idx_FFMpegBinding_82885010_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BuildableName="_idx_PhotoResources_93AD7A80_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_PhotoResources_93AD7A80_ios_min11.0" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A96A85C1C00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9ADECF0DC600000000" BuildableIdentifier="primary" BlueprintName="_idx_PersistentStringHash_38CB5168_ios_min11.0" BuildableName="_idx_PersistentStringHash_38CB5168_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_WebSearchUI_AA3DC729_ios_min11.0" BlueprintIdentifier="B7559A9A4A00EB7E00000000" BuildableName="_idx_WebSearchUI_AA3DC729_ios_min11.0.framework" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A8682FA8400000000" BuildableIdentifier="primary" BlueprintName="_idx_ChatTimerScreen_8E418F7A_ios_min11.0" BuildableName="_idx_ChatTimerScreen_8E418F7A_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AF45940E600000000" BuildableName="_idx_GraphUI_DCC2CB77_ios_min11.0.framework" BlueprintName="_idx_GraphUI_DCC2CB77_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A2B33FA1800000000" BuildableName="_idx_ProgressIndicatorComponent_5FA48DEA_ios_min11.0.framework" BlueprintName="_idx_ProgressIndicatorComponent_5FA48DEA_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BlueprintName="_idx_DctHuffman_43E4EB90_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AFDA8E1B800000000" BuildableName="lib_idx_DctHuffman_43E4EB90_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_ItemListPeerItem_6B78CA42_ios_min11.0.framework" BlueprintName="_idx_ItemListPeerItem_6B78CA42_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A682621CC00000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_SlotMachineAnimationNode_0310906E_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9ADB17E05E00000000" BuildableName="_idx_SlotMachineAnimationNode_0310906E_ios_min11.0.framework" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintName="_idx_AccountContext_429E4A87_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_AccountContext_429E4A87_ios_min11.0.framework" BlueprintIdentifier="B7559A9A469B0FA200000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ContactListUI_13265376_ios_min11.0.framework" BlueprintIdentifier="B7559A9AF7B3839A00000000" BlueprintName="_idx_ContactListUI_13265376_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A20AF9C4E00000000" BuildableIdentifier="primary" BuildableName="_idx_ChatListTitleView_9C060946_ios_min11.0.framework" BlueprintName="_idx_ChatListTitleView_9C060946_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="_idx_StickerPackPreviewUI_0D39B766_ios_min11.0.framework" BlueprintName="_idx_StickerPackPreviewUI_0D39B766_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9AAA56A68200000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES" buildForTesting="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9AE8800A5800000000" BlueprintName="_idx_ItemListAddressItem_231CB97F_ios_min11.0" BuildableName="_idx_ItemListAddressItem_231CB97F_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForTesting="YES" buildForRunning="YES">
+                <BuildableReference BuildableName="lib_idx_OpusBinding_C823C430_ios_min11.0.a" BlueprintIdentifier="B7559A9AA2ADF99800000000" BlueprintName="_idx_OpusBinding_C823C430_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="lib_idx_ZipArchive_DF7A1D4A_ios_min11.0.a" BlueprintIdentifier="B7559A9A8983B12E00000000" BlueprintName="_idx_ZipArchive_DF7A1D4A_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForAnalyzing="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BlueprintName="_idx_TgVoipWebrtc_9A010F08_ios_min11.0" BuildableIdentifier="primary" BuildableName="lib_idx_TgVoipWebrtc_9A010F08_ios_min11.0.a" BlueprintIdentifier="B7559A9A5808EACE00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BuildableName="lib_idx_ShareItemsImpl_92B78E1B_ios_min11.0.a" BlueprintName="_idx_ShareItemsImpl_92B78E1B_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A626F59FA00000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A1DF8BF8E00000000" BuildableName="_idx_AdUI_BF46459A_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintName="_idx_AdUI_BF46459A_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForArchiving="YES" buildForRunning="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_SolidRoundedButtonComponent_1ACADBCE_ios_min11.0" BlueprintIdentifier="B7559A9AE58075F200000000" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_SolidRoundedButtonComponent_1ACADBCE_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintIdentifier="B7559A9A1417592000000000" BuildableName="_idx_ItemListVenueItem_3E50CDE7_ios_min11.0.framework" BlueprintName="_idx_ItemListVenueItem_3E50CDE7_ios_min11.0" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForRunning="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_ItemListPeerActionItem_F39E9C82_ios_min11.0" BlueprintIdentifier="B7559A9A0CF4E3B200000000" BuildableName="_idx_ItemListPeerActionItem_F39E9C82_ios_min11.0.framework" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES">
+                <BuildableReference BuildableName="_idx_PeerPresenceStatusManager_10AFFA2B_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AF444A53C00000000" BlueprintName="_idx_PeerPresenceStatusManager_10AFFA2B_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_FastBlur_744F92C9_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BlueprintIdentifier="B7559A9A7EA3729E00000000" BuildableIdentifier="primary" BuildableName="lib_idx_FastBlur_744F92C9_ios_min11.0.a"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForRunning="YES" buildForProfiling="YES" buildForTesting="YES" buildForArchiving="YES" buildForAnalyzing="YES">
+                <BuildableReference BlueprintName="_idx_MediaPasteboardUI_B44678C7_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_MediaPasteboardUI_B44678C7_ios_min11.0.framework" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A13AF580600000000"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForProfiling="YES" buildForTesting="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="lib_idx_RMIntro_3F7EEDF8_ios_min11.0.a" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A906E422A00000000" BlueprintName="_idx_RMIntro_3F7EEDF8_ios_min11.0"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForRunning="YES" buildForTesting="YES">
+                <BuildableReference BlueprintName="_idx_ArchivedStickerPacksNotice_832BA533_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9A24D975F000000000" BuildableName="_idx_ArchivedStickerPacksNotice_832BA533_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference BuildableName="_idx_LottieComponent_9EB7D94B_ios_min11.0.framework" BlueprintName="_idx_LottieComponent_9EB7D94B_ios_min11.0" BlueprintIdentifier="B7559A9A08C20DE400000000" BuildableIdentifier="primary" ReferencedContainer="container:Telegram.xcodeproj"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForArchiving="YES" buildForAnalyzing="YES" buildForTesting="YES" buildForProfiling="YES" buildForRunning="YES">
+                <BuildableReference BlueprintName="_idx_PhoneInputNode_D32A27E7_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableIdentifier="primary" BlueprintIdentifier="B7559A9AEF27F37800000000" BuildableName="_idx_PhoneInputNode_D32A27E7_ios_min11.0.framework"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForAnalyzing="YES" buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForArchiving="YES">
+                <BuildableReference ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_ContactsPeerItem_35269A95_ios_min11.0.framework" BlueprintName="_idx_ContactsPeerItem_35269A95_ios_min11.0" BlueprintIdentifier="B7559A9A18D60A5200000000" BuildableIdentifier="primary"></BuildableReference>
+            </BuildActionEntry>
+            <BuildActionEntry buildForTesting="YES" buildForRunning="YES" buildForProfiling="YES" buildForAnalyzing="YES" buildForArchiving="YES">
+                <BuildableReference BuildableIdentifier="primary" BlueprintName="_idx_NotificationMuteSettingsUI_41CDF92F_ios_min11.0" ReferencedContainer="container:Telegram.xcodeproj" BuildableName="_idx_NotificationMuteSettingsUI_41CDF92F_ios_min11.0.framework" BlueprintIdentifier="B7559A9AA4F3217A00000000"></BuildableReference>
+            </BuildActionEntry>
+        </BuildActionEntries>
+    </BuildAction>
+    <TestAction selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" buildConfiguration="Debug" shouldUseLaunchSchemeArgsEnv="YES">
+        <Testables></Testables>
+    </TestAction>
+    <LaunchAction allowLocationSimulation="YES" buildConfiguration="Debug" useCustomWorkingDirectory="NO" selectedDebuggerIdentifier="Xcode.DebuggerFoundation.Debugger.LLDB" ignoresPersistentStateOnLaunch="NO" launchStyle="0" debugDocumentVersioning="YES" selectedLauncherIdentifier="Xcode.DebuggerFoundation.Launcher.LLDB" debugServiceExtension="internal">
+        <EnvironmentVariables></EnvironmentVariables>
+    </LaunchAction>
+    <ProfileAction shouldUseLaunchSchemeArgsEnv="YES" debugDocumentVersioning="YES" useCustomWorkingDirectory="NO" buildConfiguration="Release"></ProfileAction>
+    <AnalyzeAction buildConfiguration="Debug"></AnalyzeAction>
+    <ArchiveAction buildConfiguration="Release" revealArchiveInOrganizer="YES"></ArchiveAction>
+</Scheme>
